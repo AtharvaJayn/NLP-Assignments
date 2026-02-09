@@ -1,0 +1,3 @@
+i love natural language processing
+nlp is very useful in realworld applications
+machine learning helps in language understanding
